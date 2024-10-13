@@ -1,8 +1,8 @@
-#Bank Customer Classification Based on Reactions to Marketing Campaigns
+Bank Customer Classification Based on Reactions to Marketing Campaigns
 
-#Overview
+Overview
 
-#This project aims to classify bank customers based on their reactions to various marketing campaigns. By analyzing customer data, we can predict how likely they are to respond positively to different types of marketing strategies, helping the bank improve its campaign targeting and overall marketing effectiveness.
+This project aims to classify bank customers based on their reactions to various marketing campaigns. By analyzing customer data, we can predict how likely they are to respond positively to different types of marketing strategies, helping the bank improve its campaign targeting and overall marketing effectiveness.
 
 Table of Contents
 
